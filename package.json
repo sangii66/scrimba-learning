@@ -1,0 +1,17 @@
+{
+  "name": "Scrim-s01ua4k",
+  "description": "https://scrimba.com/learn-markdown-c01j/~09/s04a76k71p/head",
+  "scripts": {
+    "watch": "webpack -w",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "webpack": "^2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.0",
+    "babel-loader": "^7.0",
+    "babel-preset-env": "*",
+    "babel-preset-react": "*"
+  }
+}
